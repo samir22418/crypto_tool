@@ -37,26 +37,11 @@ A Python-based cryptography tool for exploring encryption, hashing, and digital 
 
 ---
 
-## Usage
 
-1. Launch the app to access five tabs: Symmetric, Asymmetric (RSA), Classical, Hashing, and Digital Signature.
-2. Each tab provides:
-   - Input field for messages
-   - Key generation (where applicable)
-   - Action selection (e.g., encrypt, sign)
-   - Output display and file save/load options
-
-**Example**: To encrypt with AES:
-- Go to the **Symmetric** tab.
-- Click "Make New Key".
-- Enter a message, select "AES Encrypt", and click "Go!".
-- Save the result with "Save Result".
-
----
 
 ## Credits
 
-- **Author**: Samir Walid Samir (ID: 412200040)
+- **Author**: Samir Walid Samir 
 - **Built With**: Python 3, Tkinter, `pycryptodome`, `cryptography`
 
 ---
