@@ -1,6 +1,6 @@
 # SamirCryptoTool
 
-![SamirCryptoTool Cover](SamirCryptoTool_Cover.jpg)
+
 
 A Python-based cryptography tool for exploring encryption, hashing, and digital signatures.
 
